@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Montse ✨
 <image align="center" alt="Banner" src="GitHub_Banner.gif">
-<br />
-I'm a psychologist with a passion for technology. My current journey in the digital world has mostly being exploring two areas: Front End development and Data Science. 
+I'm a psychologist with a passion for technology. My current journey in the digital world has mostly being exploring Front End development, however I'm interested in Data Science as well! <br />
 I'm deeply intrigued by the intersection of psychology and technology and how it shapes our digital experiences.
 
 ### 💻 Front End
