@@ -34,10 +34,10 @@ Beyond coding and data analysis, I'm drawn to the world of design as a powerful 
 ![image](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) 
 
-🗂️ ### My current projects
+ ### 🗂️ My current projects
 _stay tuned..._
 
-📲 ### Reach me!
+### 📲 Reach me!
 I'm eager to meet people and to collaborate on projects.<br />
 Find me on my [LinkedIn](https://www.linkedin.com/in/montsedewarg/) and [Indeed](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-menu-homepage&_ga=2.22017019.1170064864.1715742164-1997167802.1715742164).<br />
 Also, here is my [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:montsedewar@gmail.com)&nbsp;<br />
