@@ -9,11 +9,13 @@ I'm deeply intrigued by the intersection of psychology and technology and how it
 As a Front End enthusiast, I love crafting engaging user interfaces that not only look stunning but also provide seamless interactions. I believe that good design enhances user experience and fosters inclusivity in the digital realm
 
 ### Data Science & Data Visualization
-In the realm of Data Science, I enjoy unraveling insights from complex datasets and transforming them into actionable strategies. Understanding human behavior through data analysis fascinates me, and I'm committed to leveraging this knowledge for building innovative solutions.
+In the realm of Data Science, I enjoy unraveling insights from complex datasets and transforming them into actionable strategies. Understanding human behavior through data analysis fascinates me, and I'm committed to leveraging this knowledge for building innovative solutions.<br />
 Lately, I've been deeply inspired by [The Pudding](https://pudding.cool/) project.
 
 ### Desing as a Visual Language
 Beyond coding and data analysis, I'm drawn to the world of design as a powerful system of visual communication. I see design not only as an aesthetic endeavor but also as a means to convey ideas, emotions, and messages effectively.
+
+### _What about me rn?_ 🤔
 
 - 🔭 I’m currently working on  ✨ _My first porfolio_ ✨ for digital proyects.
 - 🌱 I’m currently developing my Front End skills ✍🏻🤓
@@ -36,7 +38,8 @@ Beyond coding and data analysis, I'm drawn to the world of design as a powerful 
 _stay tuned..._
 
 ### Reach me!
-I'm eager to meet people and to collaborate on projects. 
-My [LinkedIn](https://www.linkedin.com/in/montsedewarg/) and [Indeed](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-menu-homepage&_ga=2.22017019.1170064864.1715742164-1997167802.1715742164)
-
+I'm eager to meet people and to collaborate on projects.<br />
+Find me on my [LinkedIn](https://www.linkedin.com/in/montsedewarg/) and [Indeed](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-menu-homepage&_ga=2.22017019.1170064864.1715742164-1997167802.1715742164).<br />
+Also, here is my [![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:montsedewar@gmail.com)&nbsp;<br />
+<br />
 Thanks for reading till the end 😇💕
