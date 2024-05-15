@@ -15,7 +15,7 @@ Lately, I've been deeply inspired by [The Pudding](https://pudding.cool/) projec
 ### Desing as a Visual Language
 Beyond coding and data analysis, I'm drawn to the world of design as a powerful system of visual communication. I see design not only as an aesthetic endeavor but also as a means to convey ideas, emotions, and messages effectively.
 
-🤔 ### _What about me rn?_ 
+### 🤔 What _about me_ rn?
 
 - 🔭 I’m currently working on  ✨ _My first porfolio_ ✨ for digital proyects.
 - 🌱 I’m currently developing my Front End skills ✍🏻🤓
