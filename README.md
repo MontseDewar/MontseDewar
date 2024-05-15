@@ -20,7 +20,7 @@ Beyond coding and data analysis, I'm drawn to the world of design as a powerful 
 - 🔭 I’m currently working on  ✨ _My first porfolio_ ✨ for digital proyects.
 - 🌱 I’m currently developing my Front End skills ✍🏻🤓
 - 😄 Pronouns are she / her 💜
-- ⚡ Fun fact: I trully believe technology will close the gap that the current non-inclusive world has created.
+- ⚡ Fun fact: I love horror movies 👻 I think they allow us to explore interesting feelings and ideas in safety and from a detached place 🎃
 
 ### 🎯 Technologies used so far...
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
